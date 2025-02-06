@@ -19,8 +19,6 @@ h1{
 }
 .dclock div{
     margin: 10px;
-    
-
     position: relative;
 }
 .dclock span{
@@ -31,8 +29,8 @@ h1{
     border-radius: 30px;
     color: #000000;
     display: flex;
-    justify-content: left;
-    align-items: left;
+    justify-content: center;
+    align-items: center;
     font-size: 50px;
     text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.3);
 }
